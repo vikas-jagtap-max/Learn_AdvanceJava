@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaWebAppUsingMVCArchit_Cabs&apos; to &apos;JavaWebAppInMVCArchit_Cabs&apos;" description="Rename resource &apos;JavaWebAppUsingMVCArchit_Cabs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaWebAppUsingMVCArchit_Cabs" name="JavaWebAppInMVCArchit_Cabs" stamp="1711731283820" updateReferences="true"/>
+</session>

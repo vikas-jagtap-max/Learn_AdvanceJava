@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link href="../resources/css/bootstrap.css" rel="stylesheet">
+<link href="../resources/css/style.css" rel="stylesheet">
+<style>
+body {
+	background-image: url('../resources/image/background.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 99%;
+	background-height: 100%
+}
+
+.h1 {
+	font-family: Tw Cen MT;
+	width: 500px;
+	padding: 20px;
+	font-weight: bolder;
+	font-size: 45px;
+}
+</style>
+<title>Cabs Login</title>
+</head>
+<body>
+
+</body>
+</html>
